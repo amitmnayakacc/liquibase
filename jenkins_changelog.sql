@@ -19,4 +19,4 @@ create table Jenkins_Table2 (
 )
 
 --changeset dhruv:3
-alter table person add column ADDRESS varchar(2)
+alter table Jenkins_table1 add column NAME varchar(2)
