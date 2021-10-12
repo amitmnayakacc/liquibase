@@ -1,5 +1,3 @@
-
-
 --changeset amit:1
 create table Jenkins_table1 (
     id int primary key,
