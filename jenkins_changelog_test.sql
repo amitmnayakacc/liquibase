@@ -20,3 +20,6 @@ create table company (
 
 --changeset amit:3
 alter table person add column country varchar(2)
+
+--changeset dhruv:3
+alter table person add column state varchar(2)
