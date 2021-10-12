@@ -1,4 +1,4 @@
---liquibase formatted sql
+-- liquibase formatted sql changeLogId:c0e50faa-d6ec-478e-bdc7-af6474323351
 
 --changeset amit:1
 create table Jenkins_table1 (
