@@ -1,7 +1,7 @@
 --liquibase formatted sql
 
 --changeset amit:1
-create table Amit (
+create table Jenkins_table1 (
     id int primary key,
     name varchar(50) not null,
     address1 varchar(50),
@@ -10,7 +10,7 @@ create table Amit (
 )
 
 --changeset nayak:2
-create table Nayak (
+create table Jenkins_Table2 (
     id int primary key,
     name varchar(50) not null,
     address1 varchar(50),
