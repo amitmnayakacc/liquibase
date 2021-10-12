@@ -20,3 +20,6 @@ create table Jenkins_Table2 (
 
 --changeset dhruv:3
 alter table Jenkins_table1 add column Company varchar(2)
+
+--changeset ketan:3
+alter table Jenkins_table1 add column State varchar(2)
