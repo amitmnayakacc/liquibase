@@ -17,18 +17,3 @@ create table Jenkins_Table2 (
     address2 varchar(50),
     city varchar(30)
 )
-
---changeset dhruv:3
-alter table Jenkins_table1 add column Company varchar(2)
-
---changeset ketan:3
-alter table Jenkins_table1 add column State varchar(2)
-
---changeset amit:2
-create table Jenkins_Table3 (
-    id int primary key,
-    name varchar(50) not null,
-    address1 varchar(50),
-    address2 varchar(50),
-    city varchar(30)
-)
