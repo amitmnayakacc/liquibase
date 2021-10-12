@@ -1,4 +1,4 @@
---liquibase formatted sql
+-- liquibase formatted sql changeLogId:784c546a-0929-45db-b359-b32ca1d9f001
 
 --changeset amit:1
 create table person (
